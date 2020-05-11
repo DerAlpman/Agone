@@ -31,7 +31,7 @@ Der Rat der Dekane
 
 ### 4 Zweiter Brief vom Rat der Dekane
 
-Liebe Embleme,
+Liebe Symbole,
 
 Unsere Untersuchung war erfolgreich. Wir haben die Drakonier-Bande ausfindig gemacht, die für das Attentat auf Sie verantwortlich ist. Sie zählen etwa zehn Personen und verstecken sich in einer verlassenen Hütte am rechten Ufer des Larmeinge, einen halben Block flussabwärts von Cyniels letztem bewohnten Haus. Es liegt an Ihnen, die Rechnung zu begleichen.
 
@@ -51,9 +51,35 @@ Heute haben wir - endlich - etwas Neues in der Hochburg. Eine Gruppe von Cyniels
 
 ### 6 Dritter Brief vom Rat der Dekane
 
+Liebe Symbole,
+
+Sobald Sie den Brasillant wiedergefunden haben, treffen Sie mich in der Herberge im Dorf Milfillem, südlich von Cyniel. Ich flehe Sie an, beeilen Sie sich, die Truppen des Feindes sammeln sich vor unseren Toren.
+
+Mögen Ihre Flammen immer brennen,
+
+Der Rat der Dekane
+
 ### 7 Vierter Brief vom Rat der Dekane
 
+Liebe Freunde,
+
+Wir möchten Ihnen für den Dienst danken, den Sie uns gerade geleistet haben.
+
+Mögen Ihre Flammen immer brennen,
+
+Der Rat der Dekane
+
 ### 8 Brief von Ophéline
+
+Sehr geehrte Inspirierte,
+
+Ich spreche heute im Namen des Rates der Dekane zu Ihnen. Nach der Untersuchung hat sich herausgestellt, dass Sie aktiv an den unruhigen Ereignissen beteiligt waren, die zum Verlust eines wertvollen Gutes des Rates führten. Eine Flamme wurde von einem Verräter des Herbstes gestohlen, und wir befürchten, dass Sie seine Flucht vielleicht gebilligt haben.
+
+Deshalb bitte ich Sie, so bald wie möglich nach Estézia zu fahren und mich dort in der Pension der Ophidines vor dem alten Kolosseum zu treffen. Dort werden Sie sich vor einer Jury unseres Rates für Ihre Handlungen verantworten. Wenn Sie in zwei Jahrzehnten bis zu dem Tag, an dem Sie dieser Aufforderung nicht Folge geleistet haben, nicht Folge geleistet haben, werden Sie als Rebellen unserer Autorität betrachtet.
+
+Bitte empfangen Sie meine jahreszeitlichen Grüße,
+
+Ophéline, Siegel der Schwarzfeen
 
 ### 9 Brief von Esméralda
 
