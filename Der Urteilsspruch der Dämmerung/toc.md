@@ -74,7 +74,7 @@
         * Bedeutende Einladungen
         * Artistische Wettbewerbge
         * Ein Mordversuch
-        * Was ist mit den letzten Emblemen?
+        * Was ist mit den letzten Symbolen?
       * Homawhat der Riese
         * Nach Cyniel
         * Auf der Reise
