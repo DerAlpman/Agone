@@ -83,13 +83,54 @@ Ophéline, Siegel der Schwarzfeen
 
 ### 9 Brief von Esméralda
 
+Serafin,
+
+Ich kann nicht länger mit dem leben, was ich in mir trage. Mein Leben ist unerträglich geworden. Ich bitte Sie um Verzeihung, es hat nichts mit Ihnen zu tun, aber ich sehe keinen anderen Weg als den Tod. Bitte weinen Sie nicht und suchen Sie sich einen anderen Kobold, der Sie liebt. Sie haben es verdient.
+
+Ihre Esmeralda
+
 ### 10 Frühlingsgedicht
+
+Ich bin das heiße Wesen. Fieberhaft und inspiriert,
+denn meine Musen leiten mich auf meiner letzten Suche.
+Verliebt stampfe ich meine geilen Hufe
+ durch die wunderbaren Gärten, in denen verträumte Menschen auf Sie warten.
+
+Aber wo verstecken Sie sich, schöne schlafende Dame?
+Äonen lang habe ich dich, o göttliche Mutter, gesucht, dich zu sehen, dich zu berühren, bis ich mich selbst verflucht sah, und für immer meine so kuscheligen Gelüste zu verlieren.
+
+Ich habe mit jedem Wind die Samen des Frühlings gesät, die heute wie kein anderer brennen, und ich erntete nichts als glühende Kohlen.
+
+Wenn ich ausgelöscht bin, werde ich unter der verzauberten Eiche schlafen, Sie werden dort aufwachen und neben mir liegen, und ich werde das Glück Ihrer roten Lippen schmecken.
 
 ### 11 Erster Brief von Virgilène
 
+Lieber Malicene,
+
+Ich freue mich, dass die Inspirierten von Soleidin geboren wurden! Sie sagen, dass Sie mehrere Phönix-Flammen haben und dass sie genau wie unsere sind? Das ist fantastisch! Dies ist unsere größte Hoffnung. Ich kann es kaum erwarten, sie bei unserem nächsten Treffen zu zeigen.
+
+Die Musen werden dich beschützen, mein Freund
+
+VL
+
 ### 12 Zweiter Brief von Virgilène
 
+Lieber Malicene,
+
+Ich wünsche Ihnen viel Glück mit Ihrem Inferno. Ich für meinen Teil habe die wildesten Träume über ihre Zukunft. Seit der Demonstration beim letzten Treffen bin ich überzeugt, dass sie unsere größte Waffe gegen den Feind sein werden.
+
+Deine Flamme steigt auf.
+
+VL
+
 ### 13 Dritter Brief von Virgilène
+
+Meine Freundin,
+
+Mir läuft die Zeit davon, also verzeihen Sie mir, dass ich nicht logischer bin. Der Rat der Dekane hat eine neue Initiative ergriffen und beschlossen, außerordentliche Bedienstete heranzuziehen. An außerordentliche Paten, außerordentliche Inspirierte: Ich vertraue Ihnen daher folgenden Auftrag an. Im Dorf Flotenbarque lebt ein Riese namens Kolomnhog, finden Sie ihn und nehmen Sie ihn mit.
+
+Ich bestehe auf diesem Punkt: dies ist eine andere Inspiration als die, mit der wir arbeiten, deshalb müssen Sie Kolomnhog an Ihre Seite nehmen und anfangen, ihm die Gebote von Sauroponte einzuprägen... Denn ich kann nicht vorhersehen, was er einmal Träger dieser Flamme werden wird. Ich muss mich hier noch um eine Reihe von Angelegenheiten kümmern, was Ihnen Zeit gibt, diesen Riesen zu finden und seine Inspiration vorzubereiten.
+Meine Botschaft wird mir vorausgehen, denn ich kann nicht schneller segeln als der Frost.
 
 ### 14 Der Urteilsspruch der Dämmerung
 
