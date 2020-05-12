@@ -22,7 +22,7 @@
 
 *"Die Essenz des Tages, die er in sich trägt, bewahrt ihn vor dem Schatten", antwortete Malicene. "Außerdem glaube ich, er wäre eher gestorben, als vor der Autorität eines Hohen Teufels niederzuknien. Agone kann keinen Meister ausstehen. Ich erinnere Sie daran, dass wir ihn dafür ausgewählt haben."*
 
-*"Sie haben gerade angedeutet, dass Agone tot sein könnte, Malicène. Vielleicht ist genau das passiert. Andere Elemente Ihres Plans könnten ihn verraten haben: die Seelen der Stadtbewohner, das Genie... Was weiß ich wer noch?"
+*"Sie haben gerade angedeutet, dass Agone tot sein könnte, Malicène. Vielleicht ist genau das passiert. Andere Elemente Ihres Plans könnten ihn verraten haben: die Seelen der Stadtbewohner, das Genie... Was weiß ich wer noch?"*
 
 *Mit seiner letzten Bemerkung hatte Ipsoum den Rat gerade wieder in schweres Schweigen gestürzt. Er verstand, dass alle über die Folgen des möglichen Verschwindens des ersten Barons nachdachten. Nach einigen unendlichen Minuten wandte sich der Kobold an Lady Algyria. Die bezaubernde Medusa hatte sich bereit erklärt, den Ablauf des Tages zu orchestrieren. Er zwinkerte ihr zu und forderte sie auf, die Reflexionen ihrer Kommilitonen zu verkürzen. Es wäre ohnehin unmöglich gewesen, eine Erklärung für das Schweigen von Agone zu finden, und es wurde richtig kalt. Die Medusa nickte und erhob ihre süße Stimme:*
 
@@ -49,8 +49,8 @@
 *Als die beiden Seelen ihre Lust in die Nacht schrieen, löste sich eine Silhouette von Richter Marlvertius. Sie klopfte Jad auf die Schulter, und er drehte sich abrupt um. Der alte Bucklige war sprachlos von der unbeschreiblichen Schönheit des Mannes, der ihn ansprach:
 "Ich kenne dich, Sombreconge. Sie und Ihre Begleiterin sind die letzten, die mir entkommen sind. Sie hat dich bis jetzt vor mir beschützt, aber deine Liebe hat dich gerade verraten. Wie deine Schwestern wirst du mir nun dienen..."*
 
-*Nicht wissen umd das Schicksal der Stadtflammen kämpft der Rat der Dekane weiter für die Zukunft der Inspiration... Die Medusa führte weiter die Debatte an und machte ihren Gefährten Vorschläge:
+*Nicht wissen umd das Schicksal der Stadtflammen kämpft der Rat der Dekane weiter für die Zukunft der Inspiration... Die Medusa führte weiter die Debatte an und machte ihren Gefährten Vorschläge:*
 
-"Lasst uns nicht niedergeschlagen sein, meine Freunde... Die Seelen der Städte mögen verloren sein, aber heute bringt uns Malicene neue Hoffnung. Los, Gnom-Freund, erzähl uns von den Flammen der Phönix..."
+*"Lasst uns nicht niedergeschlagen sein, meine Freunde... Die Seelen der Städte mögen verloren sein, aber heute bringt uns Malicene neue Hoffnung. Los, Gnom-Freund, erzähl uns von den Flammen der Phönix..."*
 
-Fortsetzung folgt...
+*Fortsetzung folgt...*
