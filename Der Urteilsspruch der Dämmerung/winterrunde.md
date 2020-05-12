@@ -1,0 +1,56 @@
+## Winterrunde
+
+*"Da ich seitdem keine Nachrichten mehr erhalten habe, fürchte ich, dass unser Abgesandter aus der Unternehmung ausgeschieden ist", schließt die höhlenartige Stimme mit einem starken liturgischen Akzent. Die Geschichte, die der Zwerg gerade beendet hatte, machte seine acht Gefährten sprachlos. Die Augen verloren sich im Tanz des Feuers, das in der Mitte der Lichtung gehalten wurde, um dem Winterfrost zu trotzen. Einige Flocken, vom Wind geschüttelt, versuchten, die schweren Gedanken abzulenken, aber alles, was sie erreichten, war ein zaghaftes Zurechtrücken der Umhänge auf den Schultern.*
+
+*Das kleine Kreis der Dekane hatte sich im Herzen eines tiefen Waldes versammelt, an einem abgelegenen Ort in Harmundia, wo niemand kommen würde, um ihn zu stören. Ipsoum, der Kobold, war wieder als Vertreter seines Volkes ernannt worden, und er nahm an seinem ersten Rat teil. Als er, geführt durch den Satyr Eséothyle, auf den Schauplatz gekommen war, hatte er seine neuen Kommilitonen schweigend verflucht. Waren sie verrückt, sich am Tag der Wintersonnenwende mitten in der Natur wiederzufinden? Sicherlich hatte der Kobold in den Zelten, die der Riese Howarce mitgebracht und auf der Lichtung aufgestellt hatte, Wärme und Trost gefunden.Aber an die keshitische Sonne gewöhnt, hätte der Kobold die Decken, den Herd und das Dach des ausgezeichneten Gasthauses vorgezogen, in dem er vor zehn Tagen seine letzte anständige Nacht verbracht hatte.  Esothyle hatte sie nur zur Hälfte davon überzeugt, dass die Geheimhaltung ihres Treffens die Unannehmlichkeiten eines dunklen und eisigen Waldes und damit die absolute Diskretion rechtfertigte.*
+
+*Der Satyr hatte jedoch Recht, wie der Kobold nun zugeben muss. Die Geschichte, die Kaolin Skaledur, der Vertreter des Zwergenvolkes, gerade erzählt hatte, war schlicht und ergreifend erstaunlich! Ipsoum hatte Schwierigkeiten, dies zuzugeben. Die Seelen der Städte, nach denen sein Volk seit Anbeginn auf de Suche war, existierten in der Tat. Mehr noch, es waren Flammen, ähnlich denen, die er und seine Gefährten aus dem Serail in ihren Herzen trugen. Hinzu kam, dass sie in einem Heiligtum mitten in der Abyss von einem Geist überbracht und willkommen geheißen werden sollten, der mit Würde das Volk der Kobolde repräsentierte, und Ispoum bedauerte kaum noch die beißende Kälte, die ihn zittern, schlottern und mit allen Zähnen klappern ließ.*
+
+*Der Plan des Rates war hervorragend: ehrgeizig und wagemutig, wie der Kobold es liebte. Leider - der Zwerg hatte es gerade erst angekündigt - war das Unternehmen wahrscheinlich gescheitert: Sein Baumeister, derselbe, der mit den Hohen Teufeln gesprochen hatte, hatte keine weiteren Nachrichten mehr gesandt. Ipsoum fragte sich, wer diese mysteriöse Figur war, die mit nur wenigen verdeckten Worten beschworen wurde. Indem er sich bereit erklärte, im Rat zu sitzen, hatte er sich vorgestellt, dass seine Mitglieder persönlich in die wichtigsten Angelegenheiten involviert sind. Anscheinend war dies nicht der Fall: Die neun Jahreszeitlinge waren da, und sie sprachen über eine dritte Person. Wer könnte es sein, den der Zwerg als den neuen Meister der Abgründe vorstellte? Die Antwort kam von Virgilene, der Ogerin, die als erste: das Schweigen brach:*
+
+*"Meine Freunde, war es richtig, Agone de Rochronde zu vertrauen?" fragte sie, ihre Stimme von Zweifeln erstickt. Ipsum ließ sich von der Enthüllung nicht beeindrucken. In den Gesichtern der anderen erkannte er, dass das, was die Ogerin laut auszusprechen begann, dass war, was alle befürchteten. Die Zunge des Kobolds bewegte sich unaufhörlich. Um klüger zu erscheinen als er war, herrschte er seinen Koboldgefährten an:*
+
+*"Es ist wahr, mein lieber Malicène. Sie, der Sie ihn so gut kannten, können Sie versichern, dass Ihr ehemaliger Weggefährte unsere Sache nicht verraten hat?"*
+
+*"Das glaube ich nicht, junger Kobold. Als ich den ersten Baron das letzte Mal traf, war er sicher für Harmundia und die Inspiration tätig. Und ich kenne eine schwarze Fee, die Ihnen das bestätigen könnte."*
+
+*"Macht nichts", unterbrach eine zitternde Stimme, "meine Schwester ist sowieso nicht hier, um Sie zu unterstützen".*
+
+*"Du hast Recht, Ophéline", antwortete der Kobold. "Aber kehren wir zurück zu Agone: Ich kann sie mir nicht in der Rolle des Verräters vorstellen. Auch wenn ich zugeben muss, dass er immer sehr geheimnisvoll war".*
+
+*"Und die abgrundtiefe Versuchung?" brüllte Sinochrate. "Ist er dem Ruf der Finsternis erlegen?"*
+
+*"Die Essenz des Tages, die er in sich trägt, bewahrt ihn vor dem Schatten", antwortete Malicene. "Außerdem glaube ich, er wäre eher gestorben, als vor der Autorität eines Hohen Teufels niederzuknien. Agone kann keinen Meister ausstehen. Ich erinnere Sie daran, dass wir ihn dafür ausgewählt haben."*
+
+*"Sie haben gerade angedeutet, dass Agone tot sein könnte, Malicène. Vielleicht ist genau das passiert. Andere Elemente Ihres Plans könnten ihn verraten haben: die Seelen der Stadtbewohner, das Genie... Was weiß ich wer noch?"
+
+*Mit seiner letzten Bemerkung hatte Ipsoum den Rat gerade wieder in schweres Schweigen gestürzt. Er verstand, dass alle über die Folgen des möglichen Verschwindens des ersten Barons nachdachten. Nach einigen unendlichen Minuten wandte sich der Kobold an Lady Algyria. Die bezaubernde Medusa hatte sich bereit erklärt, den Ablauf des Tages zu orchestrieren. Er zwinkerte ihr zu und forderte sie auf, die Reflexionen ihrer Kommilitonen zu verkürzen. Es wäre ohnehin unmöglich gewesen, eine Erklärung für das Schweigen von Agone zu finden, und es wurde richtig kalt. Die Medusa nickte und erhob ihre süße Stimme:*
+
+*"Meine Freunde, ich schlage vor, dass wir diese Debatte bei unserem nächsten Treffen wieder aufnehmen. Uns fehlen die Elemente, um zu verstehen, was mit den Seelen unserer schönen Städte geschehen ist. Ich schlage vor, dass Kaolin diesen Plan weiterhin anführt und sich aktiv über die Geschehnisse erkundigt. Was meinen Sie dazu?"*
+
+*"Ich bin einverstanden", sagte der Zwerg."Ich werde persönlich nach Abyme gehen und herausfinden, was aus Agone, den Buckligen und dem Genie geworden ist. Die Musen sorgen dafür, dass keiner von ihnen in den Bann des Wanderers gerät".*
+
+*"Darf ich Sie begleiten, sehr geschätzter Gefährte?", schlägt der Kobold vor. "Abyme ist einer Stadt des Marodierens und des Silbers. Ich weiß, dass Sie unter Ihrem nüchternen Äußeren ein abgefeimter Gauner sind, und die Schnüre meines Portemonnaies werden uns viele Türen öffnen. Ich bin sicher, dass wir ein gutes Team sein werden."*
+
+*Ipsoum wusste, dass er seine Kollegen ärgerte, aber er wollte seinen Eintritt in den Rat mit einem Akt der Brillanz kennzeichnen. Sein Vorschlag wurde von dem Zwerg angenommen.Die anderen Saisonmitglieder akzeptierten ebenfalls, jedoch ohne Überzeugung .Die anderen Saisonmitglieder akzeptierten ebenfalls, waren aber nicht überzeugt. Alle hatten lange und hart gearbeitet, um das Heiligtum der Städte zu errichten, und ihre Enttäuschung wurde nur durch die Hoffnung übertroffen, die sie sich für das Projekt gemacht hatten. Alle hatten das seltsame Gefühl, dass die Seelen der Städte am Ende waren.*
+
+*Und doch waren die Stadtflammen lebendiger denn je. Genau zu dem Zeitpunkt, als die Jahreszeitlinge alle Hoffnung verloren, hoben zwei starke Hände eines der Tore zu den Abwasserkanälen von Abyme, der Stadt der Dämonen, an. Ein mächtiger Körper kroch aus der klaffenden Öffnung heraus. Derjenige, den alle Jad der Bucklige nannten, blickte die verlassene Gasse hinunter. In der Gewissheit, dass er allein unter dem Mond war, stieß er seine Hand in den Abwasserschlamm und griff nach einem gebrechlichen Handgelenk. Mit einer Geste stellte er ein schönes junges Mädchen auf das schneebedeckte Kopfsteinpflaster.*
+
+*Einige Monate zuvor hatte Jad die Seele seiner Heimatstadt Sombreconge zur Welt gebracht. Er und seine Brüder waren in die Mitte des Abgrunds gebracht worden, um ihre kostbaren Lasten, ihre unvorstellbaren Kinder zu befreien.  Den Befehlen des Hausherrn - ein alter Mann mit langen weißen Haaren - trotzend, hatte sich Jad geweigert, die Frucht seines Fleisches aufzugeben. Er hielt sie an seinem Herzen fest und spürte die Wärme der jungen Flamme, seiner wunderbaren und unmöglichen Tochter. Sie hatte ihn erkannt und sich in seiner väterlichen Brust eingenistet, anklagend und vorstehend. Seitdem waren sie und er eins geworden.*
+
+*Die anderen Buckligen wollten seinem Beispiel folgen. Einige hatten die Zeit gehabt. Aber sobald der weißhaarige Mann merkte, was er verlor, tötete er die anderen, um die Flammen der Waisenkinder zu übernehmen. Mit dem Degen in der Hand hatte er vor Jad gezögert, sich aber nicht dazu entschließen, ein Wesen zu erschlagen, das nun die Seele einer Stadt repräsentierte.*
+
+*Jad hatte sich erhoben und dem Mann die Stirn geboten, gestärkt durch das unzählige Gewissen der Bürger, die in seiner Heimatstadt gestorben waren. Er hatte Sombreconge in der Ferne pulsieren gespürt, und zum ersten Mal in seinem Leben hatte er sich frei gefühlt. Ruhig hatte er seine überlebenden Brüder versammelt und dem rothaarigen Mädchen die Hand gereicht: Er hatte begriffen, dass sie die Seele von Abyme war, gewissermaßen seine Schwester. Sie wusste alles über die Abgründe und befehligte die schwarzen Schmuggler. Dank ihr hatten sie ohne Schwierigkeiten die Oberfläche des Abgrunds wiedererlangen können.*
+
+*Den Ruf ihrer Stadt spürend, verließen die Buckligen in den folgenden Wochen einen nach dem anderen Abyme. Jad war der letzte, der bei ihr blieb. Er beschützte sie und sie führte ihn. Sie spürte die Stadt und wusste, dass sie von den vielen anonymen Jägern gejagt wurden. Sie schaffte es immer, sie zu vermeiden.*
+
+*Hand in Hand gingen sie nun den Richterkai entlang. Das Knarren ihrer Schritte auf dem Schnee vermischte sich mit dem Plätschern des Wassers im Kanal. Die eisige Kälte hatte die Straßen geleert, und die beiden Wesen fühlten sich allein im Universum. Jad blieb stehen, um den Mond anzustarren. Mit den Augen folgte er seinen Reflexionen in den Wellen des Kanals, dann suchte er sie im bodenlosen Blick von Abyme.Er konnte sie dort nicht finden, aber er fühlte, wie ihre Seelen im Einklang schwangen, mit der Kraft tausender schlagender Herzen.  An die Statue des Richters Eperdem gelehnt, umarmten sich Jad und Abyme und vereinten sich.*
+
+*Als die beiden Seelen ihre Lust in die Nacht schrieen, löste sich eine Silhouette von Richter Marlvertius. Sie klopfte Jad auf die Schulter, und er drehte sich abrupt um. Der alte Bucklige war sprachlos von der unbeschreiblichen Schönheit des Mannes, der ihn ansprach:
+"Ich kenne dich, Sombreconge. Sie und Ihre Begleiterin sind die letzten, die mir entkommen sind. Sie hat dich bis jetzt vor mir beschützt, aber deine Liebe hat dich gerade verraten. Wie deine Schwestern wirst du mir nun dienen..."*
+
+*Nicht wissen umd das Schicksal der Stadtflammen kämpft der Rat der Dekane weiter für die Zukunft der Inspiration... Die Medusa führte weiter die Debatte an und machte ihren Gefährten Vorschläge:
+
+"Lasst uns nicht niedergeschlagen sein, meine Freunde... Die Seelen der Städte mögen verloren sein, aber heute bringt uns Malicene neue Hoffnung. Los, Gnom-Freund, erzähl uns von den Flammen der Phönix..."
+
+Fortsetzung folgt...
