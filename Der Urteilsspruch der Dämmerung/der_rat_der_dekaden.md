@@ -53,14 +53,51 @@ Kurz vor seinem Tod wurde er vom Rat der Dekaden kontaktiert und, überzeugt von
 Unter größter Geheimhaltung ist das Herrenhaus von Alifiore zu einem der am weitesten entwickelten Sanktuarien geworden. Offiziell ist es nun der Sitz der Bruderschaft von Nitescente, einem Ritterordens ohne Furcht und ohne Vorwürfe. Einige von ihnen sind Inspirierte, Jünger des Geistes Alifiore. Letzterer ist im Laufe der Jahrhunderte am Ende seines Erwachens angelangt. Er ist nun bereit, neue Flammen zu schaffen, ein Kunststück, das er als einer der ersten vollbringen wird.
 
 Name der Geists: Sandre d'Alifiore
+
 Persönlichkeit: Weiser
+
 Erweckungsmacht: 10
+
 Erste Patin: Stance
+
 Zweite Patin: Cysèle
+
 Dritte Patin: Orphèle
+
 Vierte Patin: Nuence
 
 Zahl der Jünger: acht Ritter
 
 Das Sanktuarium von Alifiore hat sich über fast ein Jahrtausend hinweg großer Stabilität erfreut. Diese idyllische Situation wird vielleicht nicht ewig andauern. Die Premierministerin hat sich vor kurzem in den Kopf gesetzt - oder es wurde ihr vorgeschlagen - dass die Ritter von Nitescente mit Repaire Montagnard verbunden seien. Sie sucht nach der kleinsten Gelegenheit, es zu verkünden.
 
+#### Der Sturz von Armgarde
+
+Nach dem Tod von Kaiser Erkman XIX. am Morgen des Jahres 990 nach der Finsternis wird das Reich von Bruderkriegen erschüttert. Die Siegel beschließen, das Gebiet auf der Suche nach einem politisch stabilen Asyl zu verlassen. Da sie nicht in der Lage sind, das Sanktuarium von Alifiore wirklich aufzugeben, vertrauen sie es jemandem an, der es wert ist, ihre Arbeit fortzusetzen.
+
+Der Rat der Dekaden fand sich in den Marschen von Modéhennes wieder, genauer gesagt in den Tälern im Südosten, die zu den Witwenlanden werden sollten. Der Ort ist in der Tat ein wahres Museum der Flamboyance, das der Blütezeit des Rates der Dekaden angemessen ist. Dame Léonide, eine inspirierte Medusa, empfängt die Jahreszeitlinge in ihrem Palast, abgeschieden am Grunde eines tiefen Tals.
+
+Seit einhundertfünfzig Jahren kennt der Rat der Dekaden friedliche Tage. Weit entfernt von den politischen Angelegenheiten Harmundias, widmet er sich voll und ganz dem Studium der Harmonie. Seine Abgesandten reisen weiterhin in die Königreiche, um sie zu inspirieren.
+
+#### Die Keshiten-Kriege
+
+Im Jahr 1140 luden die Medusen aus Modéhenne die Völker Harmundias ein, die Wunder der antiken Kunst zu besuchen, die in ihren Ländern liegen. Die keshitischen Stämme antworteten auf die Einladung mit der festen Absicht, diese Schätze zu plündern und ihre mythischen Besitzer zu vergewaltigen.
+
+Gleich zu Beginn des Krieges stürmte eine schnelle und mörderische Expedition den Palast von Dame Léonide. Zusätzlich zu den barbarischen Keshiten hatte das Freikorps Drakonier und Dämonen in seinen Reihen.Es  wurde von einem Verräter angeführt, und es besteht kein Zweifel, dass der Zweck des Angriffes darin besteht, den Rat der Dekaden zu massakrieren. Einige inspirierte Historiker behaupten sogar, dass die Maske selbst die keshitischen Kräfte organisierte, um die zukünftigen Witwenlande, Orte des Überlebens der Inspiration der Musen, zu plündern.
+
+Allerdings wird der Dekaden-Rat überrascht und die meisten seiner Mitglieder werden getötet. Von den neun Siegeln gelingt es nur der Schwarzfee Saturnine, dem Tod zu entgehen. Dank ihrer Flügel, ihrer Kenntnis der Steine und ihrer Beherrschung der magischen Künste gelingt es ihr, das Zephir-Gebirge zu überqueren, gejagt von Horden von Verfolgern.
+
+##### Der Palais von Léonide
+
+Heute ist das ehemalige Heim des Rates der Dekade eine korrupte Ruine. Die wunderbaren Werke dort wurden alle von den Legionen der Maske geprägt. Einige Statuen weinen Tränen aus Blut, die Gemälde werden lebendig und werden zu Türen zum Abgrund, berauschende Cembalo-Melodien erklingen zwischen den menschenleeren Wänden. Außerdem wählen regelmäßig Kreaturen ihren Wohnsitz im Gebäude: Ghule, Dämonen, Windbestien, Hübsche Mörder...
+
+Dunkelheit: 9
+
+Schrecken: DIFF 20
+
+Dunkelheitsgewinn: 5
+
+##### Saturnine
+
+Die Mutter des neuen Rates der Dekaden ist sich des außergewöhnlichen Schicksals, das ihr widerfahren ist, heute völlig unbewusst. Dreimal hat sie den Ruf gehört und ihre Erinnerungen sind nicht zu ihr zurückgekehrt. Das Buch, das sie für sich selbst geschrieben hatte, ist ihr gestohlen worden. Es geht das Gerücht, dass der Rat der Dekaden selbst diesen Diebstahl begangen hat, um mehr über seine Vorgänger herauszufinden und ihn nicht in die Hände einer "neuen" Schwarzfee zu legen.
+
+Saturnine nennt sich heute Alakalae und lebt in Lyphane. Aus der Zeit des alten Dekadenrates behält sie nur ihre Flamme. Immer inspiriert, lebt sie außergewöhnliche Schicksale, ohne zu ahnen, dass sie eines Tages allein alle Geheimnisse der Inspiration besitzt.
