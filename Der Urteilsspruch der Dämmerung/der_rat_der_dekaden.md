@@ -101,3 +101,11 @@ Dunkelheitsgewinn: 5
 Die Mutter des neuen Rates der Dekaden ist sich des außergewöhnlichen Schicksals, das ihr widerfahren ist, heute völlig unbewusst. Dreimal hat sie den Ruf gehört und ihre Erinnerungen sind nicht zu ihr zurückgekehrt. Das Buch, das sie für sich selbst geschrieben hatte, ist ihr gestohlen worden. Es geht das Gerücht, dass der Rat der Dekaden selbst diesen Diebstahl begangen hat, um mehr über seine Vorgänger herauszufinden und ihn nicht in die Hände einer "neuen" Schwarzfee zu legen.
 
 Saturnine nennt sich heute Alakalae und lebt in Lyphane. Aus der Zeit des alten Dekadenrates behält sie nur ihre Flamme. Immer inspiriert, lebt sie außergewöhnliche Schicksale, ohne zu ahnen, dass sie eines Tages allein alle Geheimnisse der Inspiration besitzt.
+
+#### Der neue Rat der Dekaden
+
+Saturnine findet Zuflucht in der Seestadt Fraine. Dort nimmt Janus Kontakt mit ihr auf und befiehlt ihr, den Rat der Dekaden neu zu erschaffen. Er nennt ihr die Namen von acht Siegeln, die er gerne an ihrer Seite sitzen sehen würde. Anschließend unternimmt die Schwarzfee eine große Reise durch Harmundia, um mit den neuen Vertretern des Rates der Dekaden Kontakt aufzunehmen. Es dauerte etwa zehn Jahre, bis sie sie zusammenbrachte und die erste Plenarsitzung der neuen Versammlung abhielt.
+
+In Trauer über den Verlust ihrer ehemaligen Gefährten und die Wunder, die sie im Palast von Léonide angesammelt hatten, beschließt Saturnine, dass der neue Rat der Dekaden keinen ständigen Wohnsitz mehr haben wird. Besser noch, ihre Mitglieder werden sich bis auf geheime Treffen, die jedes Mal an einem anderen Ort in den Zwielichtkönigreichen stattfinden, nur sehr selten sehen. Den Rest der Zeit werden sie mit äußerster Diskretion durch Harmundia streifen, um der Bedrohung durch die Maske und ihrer Verbündeten zu entgehen.
+
+Seit dem Jahr 1150 arbeitet der Rat der Dekaden nach den Prinzipien Saturnins und hat keinen größeren Schaden erlitten.
