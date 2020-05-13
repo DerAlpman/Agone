@@ -41,3 +41,26 @@ Da sie selbst inspiriert waren, führten die Siegel zahlreiche Studien und Exper
 In dieser privilegierten Umgebung entdeckte der Rat der Dekaden die Techniken der magischen Künste. Es dauerte mehr als dreihundert Jahre, um magische Effekte zu erzielen, aber die Mühe hat sich gelohnt.
 
 Als die Grundlagen der magischen Künste fest verankert waren, wurden sie durch die Siegel vielen Inspirierten beigebracht. Das Herrenhaus wurde das erste Schule im Dienste der Harmonie.
+
+#### Und ein Sanktuarium
+
+Die Forschungen der Siegel führten sie auch zur Wiederbelebung des ersten Sanktuariums der Dämmerungsepoche. Die Wahl des Herrenhauses, in dem sich der Rat der Dekaden niedergelassen hatte, war daran nicht unschuldig. Zur Zeit der Finsternis gehörte das Herrenhaus Sandre d'Alifiore, einem mächtigen Inspirierten. Dieser armgardische Adelige war vor allem ein Unruhestifter und ein Liebhaber der Künste.
+
+Kurz vor seinem Tod wurde er vom Rat der Dekaden kontaktiert und, überzeugt von den Bestrebungen der Jahreszeitlinge, richtete er sein Herrenhaus für sie ein. Er wurde in einer Krypta begraben, die von seinen treuen Dienern missbilligt wurde. Daraufhin nahm der Rat der Dekaden das Haus in Besitz. Erst viel später entdeckten die Jahreszeitlinge, dass der Fürst von Alifiore nicht wirklich tot war. Er war in der Tat zu einem Gründungsgeist geworden und spukte in der Krypta des Herrenhauses. Im Jahr 451 nach der Finsternis gelang es dem Rat der Dekaden, das Evokationsritual zu praktizieren und das erste Sanktuarium zu gründen.
+
+##### Das Herrenhaus von Alifiore
+
+Unter größter Geheimhaltung ist das Herrenhaus von Alifiore zu einem der am weitesten entwickelten Sanktuarien geworden. Offiziell ist es nun der Sitz der Bruderschaft von Nitescente, einem Ritterordens ohne Furcht und ohne Vorwürfe. Einige von ihnen sind Inspirierte, Jünger des Geistes Alifiore. Letzterer ist im Laufe der Jahrhunderte am Ende seines Erwachens angelangt. Er ist nun bereit, neue Flammen zu schaffen, ein Kunststück, das er als einer der ersten vollbringen wird.
+
+Name der Geists: Sandre d'Alifiore
+Persönlichkeit: Weiser
+Erweckungsmacht: 10
+Erste Patin: Stance
+Zweite Patin: Cysèle
+Dritte Patin: Orphèle
+Vierte Patin: Nuence
+
+Zahl der Jünger: acht Ritter
+
+Das Sanktuarium von Alifiore hat sich über fast ein Jahrtausend hinweg großer Stabilität erfreut. Diese idyllische Situation wird vielleicht nicht ewig andauern. Die Premierministerin hat sich vor kurzem in den Kopf gesetzt - oder es wurde ihr vorgeschlagen - dass die Ritter von Nitescente mit Repaire Montagnard verbunden seien. Sie sucht nach der kleinsten Gelegenheit, es zu verkünden.
+
