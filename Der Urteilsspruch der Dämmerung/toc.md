@@ -1,18 +1,18 @@
 # Inhaltsverzeichnis
 
 * [Das Urteil der Dämmerung](title.md)
-  * Winter-Runde
-  * Der Rat der Dekane
+  * [Winter-Runde](winterrunde.md)
+  * [Der Rat der Dekaden](der_rat_der_dekaden.md)
   * Einleitung
     * Phönixflammen
       * Geschichte der Phönixe
       * Sammlung der Flammen
         * Reisenotizen
         * Inszenierung
-        * Plan der Dekane
+        * Plan der Dekaden
       * Infernalische Mächte
         * Feurige Flamme
-        * Ryhtmus der Jahreszeiten
+        * Rythmus der Jahreszeiten
         * Ewige Nachkommenschaft
   * Das Urteil der Dämmerung
     * Episoden
@@ -53,7 +53,7 @@
         * Zauberei!
         * Der Monstertöter
       * Der Preis der Ignoranz
-        * Der tragische Dekan
+        * Die tragische Dekade
         * Letzter Wille
       * Schlussfolgerung
   * Zweites Drama: Die Weinreben der Dämmerung
@@ -110,11 +110,11 @@
   * [Spielhilfen](spielhilfen.md)
     * 1 Unfertiger Brief von Missidante
     * 2 Notizbuch von Missidante
-    * 3 Erster Brief vom Rat der Dekane
-    * 4 Zweiter Brief vom Rat der Dekane
+    * 3 Erster Brief vom Rat der Dekaden
+    * 4 Zweiter Brief vom Rat der Dekaden
     * 5 Brief von Myriade
-    * 65 Dritter Brief vom Rat der Dekane
-    * 7 Vierter Brief vom Rat der Dekane
+    * 65 Dritter Brief vom Rat der Dekaden
+    * 7 Vierter Brief vom Rat der Dekaden
     * 8 Brief von Ophéline
     * 9 Brief von Esméralda
     * 10 Frühlingsgedicht

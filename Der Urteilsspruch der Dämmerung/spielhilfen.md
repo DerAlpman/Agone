@@ -15,7 +15,7 @@ Ich habe heute die Genealogie der Familie Soupatern abgeschlossen. Ihr Patriarch
 
 Bevor ich meine anfängliche Arbeit fortsetze, werde ich versuchen, Herrn Soupatern bei seiner Leitung zu helfen. Ich unterbreche meine Forschung vorübergehend.
 
-### 3 Erster Brief vom Rat der Dekane
+### 3 Erster Brief vom Rat der Dekaden
 
 Liebe Symbole,
 
@@ -27,9 +27,9 @@ Lassen Sie es uns wissen, sobald Sie Erfolg haben. Hinterlassen Sie Ihre Nachric
 
 Mögen Ihre Flammen immer brennen,
 
-Der Rat der Dekane
+Der Rat der Dekaden
 
-### 4 Zweiter Brief vom Rat der Dekane
+### 4 Zweiter Brief vom Rat der Dekaden
 
 Liebe Symbole,
 
@@ -37,7 +37,7 @@ Unsere Untersuchung war erfolgreich. Wir haben die Drakonier-Bande ausfindig gem
 
 Mögen Ihre Flammen immer brennen,
 
-Der Rat der Dekane
+Der Rat der Dekaden
 
 ### 5 Brief von Myriade
 
@@ -49,7 +49,7 @@ Was Ihren Fall betrifft, so ist das Inferno immer noch nicht aus ihrem Versteck 
 
 Heute haben wir - endlich - etwas Neues in der Hochburg. Eine Gruppe von Cyniels Symbolen wurde in unsere Mauern eingelassen. Ich weiß noch nicht, was sie wert sind, aber eine von ihnen ist sehr charmant. Ich schicke einen Opalin - und zwar einen sehr energischen - um sie auszuspionieren.
 
-### 6 Dritter Brief vom Rat der Dekane
+### 6 Dritter Brief vom Rat der Dekaden
 
 Liebe Symbole,
 
@@ -57,9 +57,9 @@ Sobald Sie den Brasillant wiedergefunden haben, treffen Sie mich in der Herberge
 
 Mögen Ihre Flammen immer brennen,
 
-Der Rat der Dekane
+Der Rat der Dekaden
 
-### 7 Vierter Brief vom Rat der Dekane
+### 7 Vierter Brief vom Rat der Dekaden
 
 Liebe Freunde,
 
@@ -67,13 +67,13 @@ Wir möchten Ihnen für den Dienst danken, den Sie uns gerade geleistet haben.
 
 Mögen Ihre Flammen immer brennen,
 
-Der Rat der Dekane
+Der Rat der Dekaden
 
 ### 8 Brief von Ophéline
 
 Sehr geehrte Inspirierte,
 
-Ich spreche heute im Namen des Rates der Dekane zu Ihnen. Nach der Untersuchung hat sich herausgestellt, dass Sie aktiv an den unruhigen Ereignissen beteiligt waren, die zum Verlust eines wertvollen Gutes des Rates führten. Eine Flamme wurde von einem Verräter des Herbstes gestohlen, und wir befürchten, dass Sie seine Flucht vielleicht gebilligt haben.
+Ich spreche heute im Namen des Rates der Dekaden zu Ihnen. Nach der Untersuchung hat sich herausgestellt, dass Sie aktiv an den unruhigen Ereignissen beteiligt waren, die zum Verlust eines wertvollen Gutes des Rates führten. Eine Flamme wurde von einem Verräter des Herbstes gestohlen, und wir befürchten, dass Sie seine Flucht vielleicht gebilligt haben.
 
 Deshalb bitte ich Sie, so bald wie möglich nach Estézia zu fahren und mich dort in der Pension der Ophidines vor dem alten Kolosseum zu treffen. Dort werden Sie sich vor einer Jury unseres Rates für Ihre Handlungen verantworten. Wenn Sie in zwei Jahrzehnten bis zu dem Tag, an dem Sie dieser Aufforderung nicht Folge geleistet haben, nicht Folge geleistet haben, werden Sie als Rebellen unserer Autorität betrachtet.
 
@@ -127,7 +127,7 @@ VL
 
 Meine Freundin,
 
-Mir läuft die Zeit davon, also verzeihen Sie mir, dass ich nicht logischer bin. Der Rat der Dekane hat eine neue Initiative ergriffen und beschlossen, außerordentliche Bedienstete heranzuziehen. An außerordentliche Paten, außerordentliche Inspirierte: Ich vertraue Ihnen daher folgenden Auftrag an. Im Dorf Flotenbarque lebt ein Riese namens Kolomnhog, finden Sie ihn und nehmen Sie ihn mit.
+Mir läuft die Zeit davon, also verzeihen Sie mir, dass ich nicht logischer bin. Der Rat der Dekaden hat eine neue Initiative ergriffen und beschlossen, außerordentliche Bedienstete heranzuziehen. An außerordentliche Paten, außerordentliche Inspirierte: Ich vertraue Ihnen daher folgenden Auftrag an. Im Dorf Flotenbarque lebt ein Riese namens Kolomnhog, finden Sie ihn und nehmen Sie ihn mit.
 
 Ich bestehe auf diesem Punkt: dies ist eine andere Inspiration als die, mit der wir arbeiten, deshalb müssen Sie Kolomnhog an Ihre Seite nehmen und anfangen, ihm die Gebote von Sauroponte einzuprägen... Denn ich kann nicht vorhersehen, was er einmal Träger dieser Flamme werden wird. Ich muss mich hier noch um eine Reihe von Angelegenheiten kümmern, was Ihnen Zeit gibt, diesen Riesen zu finden und seine Inspiration vorzubereiten.
 Meine Botschaft wird mir vorausgehen, denn ich kann nicht schneller segeln als der Frost.
@@ -137,7 +137,7 @@ Meine Botschaft wird mir vorausgehen, denn ich kann nicht schneller segeln als d
 Wenn sich vier Phönixe versammeln,
 Flammend für jede Jahreszeit.
 Drei müssen sich um den Auserwählten scharen,
-Der von außerhalb der gefallenen Dekane gewählt wurde.
+Der von außerhalb der gefallenen Dekaden gewählt wurde.
 Das Schreiben wird in den Flammen brennen,
 Zum Ruhm und für die Rückkehr der Dame.
 
