@@ -23,3 +23,21 @@
 Der Rat der Dekaden wurde mit der Dämmerung geboren. Janus, besorgt über das Gleichgewicht in Harmundia, bat die drei Damen, die frei vom Einfluss der Maske waren, ihm zu helfen, die Inspiration zu bewahren. Er brauchte sie, die einzigen Ewigen, die sich noch gegen den Feind behaupten konnten. Und sie waren eifrig dabei, denn er dominierte nun ihre unglückliche Schwester. Zwischen den Damen und Janus wurde ein Pakt in Form eines Urteilsspruches geschlossen.
 
 Der Fluss der Dekaden wurden verändert, um diejenige zu bestrafen, die sie verraten hatte: Von nun an zählte der Herbst nur noch als ein einziger Monat, während die drei treuen Jahreszeiten dreimal so lange dauern würden. Die Damen forderten, dass ihre Kinder das Recht erhalten, die Flamme zu tragen. Janus akzeptierte, behielt aber die Verantwortung für die Wahl der Empfänger, ob Menschen oder Jahreszeitlinge, für die Inspiration durch die Musen vor. Er wählte neun Jahreszeitlinge, einen pro Dekade, die er mit der Überwachung der letzten Flammen der Harmundia beauftragte; er nannte sie "Siegel". So wurde der Rat der Dekade unter der Ägide von Janus geschaffen. Glücklich über das Schicksal ihrer Kinder, suchten die Damen Zuflucht ini den Bilderwelten, um jedem Versuch zu entgehen, von der korrumpiert zu werden.
+
+#### Niederlassung in Armgarde
+
+Zur Zeit der Finsternis war Armgarde die stabilste und größte politische Einheit. Es war sogar möglich, furchtlos über seine gesamte Ausdehnung zu reisen, auf gepflasterten, schnellen und sicheren Straßen. Es herrschte Ordnung, und der Einfluss des Meisters des Scheinheiligen war schwach. Der Rat der Dekaden hat sich natürlich in seiner Hauptstadt, der heutigen janrenischen Stadt Ranne, niedergelassen.
+
+Die neun Siegel erwarben ein altes Herrenhaus und beschlossen, dort auf Dauer zu wohnen, während ihre zahlreichen Abgesandten auf der Suche nach Wesen, die Janus als der Inspiration würdig erachtete, kreuz und quer durch Harmundia ziehen würden. Als einsame und diskrete Reisende gaben und nahmen diese Hausierer die Flammen der Inspirierten zurück und versuchten, in den Augen ihres schrecklichen Feindes unbemerkt zu bleiben.
+
+Die Niederlassung des Rates der Dekaden in Ranne wurde natürlich von der Bevölkerung des Reiches wahrgenommen. Tatsächlich lebten die Jahreszeitlinge abgeschieden und zeigten eine gewisse Menschenfeindlichkeit. Es war keine gute Idee, sich in einen von Gnomen gehaltenen Wald zu wagen, und die Zwerge hüteten eifersüchtig das Geheimnis ihrer Höhleneingänge. Wenige abenteuerlustige Jahreszeitlinge schlossen sich der Gesellschaft von Menschen an.
+
+Bald diente der Rat der Dekaden als jahreszeitliche Botschaft in den Augen der Mächtigen von Armgard. Es war daher ein sehr geschäftiger Ort, seine Mitglieder gehörten zu den bemerkenswerten - und wegen ihres jahrezeitlichen Charakters - beachtetsten Personen in der größten Hauptstadt Harmundias. Natürlich blieb seine wirkliche Tätigkeit geheim.
+
+#### Entdeckung der magischen Künste...
+
+Da sie selbst inspiriert waren, führten die Siegel zahlreiche Studien und Experimente an ihrer eigenen Flamme durch. Um ihnen bei dieser Aufgabe zu helfen, suchten und bewahrten sie viele alte Werke. Im Laufe der Jahre füllte sich die große Bibliothek des Herrenhauses mit Grimoires, Bilderwelten, Musikinstrumenten und Skulpturen, die ein fantastisches Vermächtnis der Flamboyance bildeten.
+
+In dieser privilegierten Umgebung entdeckte der Rat der Dekaden die Techniken der magischen Künste. Es dauerte mehr als dreihundert Jahre, um magische Effekte zu erzielen, aber die Mühe hat sich gelohnt.
+
+Als die Grundlagen der magischen Künste fest verankert waren, wurden sie durch die Siegel vielen Inspirierten beigebracht. Das Herrenhaus wurde das erste Schule im Dienste der Harmonie.
