@@ -19,7 +19,7 @@ Bevor ich meine anfängliche Arbeit fortsetze, werde ich versuchen, Herrn Soupat
 
 Liebe Symbole,
 
-Ihre Anwesenheit in Cyniel wird begrüßt. Die Festung von L'Equerre wird derzeit von den Untergebenen unseres Feindes angegriffen. Normalerweise würde uns diese Angelegenheit nicht betreffen. Aber es stellt sich heraus, dass wir in der Festung eine Hoffnung verborgen haben, die alles übersteigt, was Sie sich vorstellen können.
+Ihre Anwesenheit in Cyniel wird begrüßt. Die Festung des Quaders wird derzeit von den Untergebenen unseres Feindes angegriffen. Normalerweise würde uns diese Angelegenheit nicht betreffen. Aber es stellt sich heraus, dass wir in der Festung eine Hoffnung verborgen haben, die alles übersteigt, was Sie sich vorstellen können.
 
 Wir sind überzeugt, dass Verräter in die Festung eingedrungen sind und dass das, was wir dort versteckt haben, in großer Gefahr ist. Wenn Sie die Mittel haben, bitten wir Sie, die Bastion zu betreten, unseren Schatz zu suchen und ihn so schnell wie möglich dem Einfluss dieses Ortes und der Menschen dort zu entziehen. Wir sind sicher, dass Sie ohne Schwierigkeiten erkennen werden, worüber wir sprechen.
 

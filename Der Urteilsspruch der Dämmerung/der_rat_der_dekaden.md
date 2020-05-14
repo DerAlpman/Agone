@@ -109,3 +109,27 @@ Saturnine findet Zuflucht in der Seestadt Fraine. Dort nimmt Janus Kontakt mit i
 In Trauer über den Verlust ihrer ehemaligen Gefährten und die Wunder, die sie im Palast von Léonide angesammelt hatten, beschließt Saturnine, dass der neue Rat der Dekaden keinen ständigen Wohnsitz mehr haben wird. Besser noch, ihre Mitglieder werden sich bis auf geheime Treffen, die jedes Mal an einem anderen Ort in den Zwielichtkönigreichen stattfinden, nur sehr selten sehen. Den Rest der Zeit werden sie mit äußerster Diskretion durch Harmundia streifen, um der Bedrohung durch die Maske und ihrer Verbündeten zu entgehen.
 
 Seit dem Jahr 1150 arbeitet der Rat der Dekaden nach den Prinzipien Saturnins und hat keinen größeren Schaden erlitten.
+
+### Funktionsweise
+
+Die Schlüsselwörter für die Arbeitsweise des rates der Dekaden sind Geheimhaltung und Diskretion. Die traurige Erfahrung der Keshiten-Kriege hat ihn gelehrt, dass er sehr verletzlich ist, und die Bedeutung der Geheimnisse, die er in sich trägt, lädt zur Vorsicht ein. Was würde passieren, wenn die Maske den Standort aller Flammen in Harmundia erfahren würde?
+
+#### Janus
+
+Der Rat der Dekaden wird bei seiner Aufgabe von Janus selbst geleitet. Der ewige Garant für das Gleichgewicht Harmundias. Er ist es in der Tat, der über die Identität der Flammenträger entscheidet. Er ist es auch, der die neun Siegel benennt.
+
+Der Rat der Dekaden trifft sich nie direkt mit dem Ewigen. Er manifestiert sich ihnen gegenüber durch geheimnisvolle Briefe. Diese Briefe können an den Rat der Dekaden als Ganzes gerichtet werden und warten dann an einem Treffpunkt auf sie. Es kann auch sein, dass sie irgendwo unterwegs auf ein einzelnes Mitglied des Dekanats warten. Nur die Siegel können diese Botschaften lesen, und sie erkennen ohne Irrtum, dass sie vom Ewigen stammen.
+
+Der Inhalt von Janus' Botschaften ist im Allgemeinen sehr einfach: Liste der Personen, die wahrscheinlich die Flamme erhalten werden, Liste der verstorbenen Inspirierten, von denen die Flamme zurückgeholt werden muss, Name des neuen Siegels, falls einer von ihnen verschwindet. Sehr selten liefert der Ewige auch Spuren darüber, wie man seine Feinde bekämpft.
+
+Wie diese Briefe den Rat erreichen, bleibt ein Rätsel. Sie können durch jede Art von Boten überbracht werden, aber es scheint, dass die Grauen Eminenzen von Souffre-Jour bei ihrer Überbringung mithelfen. Es scheint also offensichtlich, dass die Grauen Eminenzen bis zu einem gewissen Grad und wahrscheinlich ohne ihr Wissen die Augen und Ohren von Janus sind. Sie ermöglichen es ihm, Harmundia als Ganzes wahrzunehmen und die Wesen zu finden, die würdig sind, die Flamme zu tragen.
+
+Die Siegel werden es nie zugeben, aber jeder von ihnen traf den Ewigen einmal in seinem Leben direkt, als er in den Rat der Dekaden eintrat. Janus unterrichtete es dann über seine Mission und lehrte ihn, die Flamme zu geben und zurückzunehmen sowie seine Briefe zu lesen. Dieses Treffen soll den Jahreszeitling auch mit Janus verbinden, damit kein Verrat möglich ist. Die Sigiles scheinen in der Tat von unfehlbarer Zuverlässigkeit zu sein.
+
+#### Die Treffen
+
+##### Der Ort
+
+Die neun Siegel treffen sich immer an geheimen Orten, wenn möglich weit entfernt vom Einfluss des Meisters der Seher. Die Art dieser Orte ist äußerst variabel, die einzige Sorge besteht darin, keine Risiken einzugehen. Der Rat der Dekaden verlässt sich manchmal auf den Schutz der Dekaden: ein Gasthaus, das von einer unbestechlichen Sommerjajreszeitling geführt wird, ein kleines Wäldchen, das vom Pollen der Kobolde geschützt wird, eine Festung des Quaders... Bei anderen Gelegenheiten macht sie sich die Wüste und die unzugängliche Lage eines Ortes zunutze. Die keshitische Wüste, die lyphanische Steppe und das Eiglophiengebirge waren somit mehrmals Gastgeber des Rates der Dekaden. Eine andere Möglichkeit ist es, sich an einem der öffentlichsten Orte zu treffen, wo die Anwesenheit von neun Jahreszeitlingen niemanden überraschen wird: in der Seeräuberstadt Tortage-la-Rouge, dem jährlichen Jahrmarkt von Qaysaria am Rande der keshitischen Wüste, Abyme...
+
+Der Rat der Dekaden vermeidet es im Allgemeinen, direkt im Haus eines Inspirierten, auf dem Gelände einer Domäne oder in einem Sanktuarium zu tagen. Sie alle sind in der Tat leider alle korrumpierbar und geeignet, den Rat der Dekaden zu verraten. Wenn ein Treffen in der Nähe von Inspirierten stattfindet, ist der Rat der Dekaden so vorsichtig, sie nicht zu benachrichtigen!
