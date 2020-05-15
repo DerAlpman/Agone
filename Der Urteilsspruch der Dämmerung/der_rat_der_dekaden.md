@@ -141,3 +141,83 @@ Der Ort der Sitzungen wird vom Rat der Dekaden von Treffen zu Treffen festgelegt
 Auf der anderen Seite finden die Treffen immer während einer Wintersonnenwende (erster Harpyie), einer Frühlings-Tagundnachtgleiche (erster Nymphe) oder einer Sommersonnenwende (erster Phönix) statt. Das erinnert an die Zeit, als der Rat der Dekaden sesshaft war und an diesen drei Terminen systematisch Sitzungen abgehalten wurden. Die Herbst-Tagundnachtgleiche (der erste Tag des Monats) ist ein Tag, der von den Jahreszeitlingen als verflucht gilt und systematisch vermieden wird.
 
 ###### Die Teilnehmer
+
+###### Die Flammen
+
+###### Der Kampf
+
+##### Die Netzwerke
+
+###### Luminare
+
+###### Paten
+
+###### Inspirierte
+
+Einige Siegel unterhalten direkte Beziehungen mit isolierten Inspirierten. Diese Flammenträger werden regelmäßig veranlasst, für den Rat der Dekaden zu arbeiten. Den Großteil der Zeit bleibt das Siegel zum Thema „Rat der Dekaden“ sehr mysteriös. Er wird sagen, dass er dazugehört aber verschweigen, dass er der Repräsentant seines Volkes ist, er wird sehr ausweichend über die Strukturen des Rats der Dekaden sein und regelmäßig zu den Versammlungen gehen, ohne sein Ziel zu verraten...
+
+##### Spione
+
+Der Rat der Dekaden benötigt verzweifelt Informationen. Die Verfolgung der Flammen ist keine leichte Aufgabe. Jedes Siegel hat in der Regel ein Spionagenetz in der Region aufgebaut, in der es am meisten waltet. Es gibt genug Jahreszeitlinge, vor allem Glanzlose, denen das Siegel vertraut. Einige Siegel ziehen Nutzen aus einem effizienten Netz, das Teil des Amtes ist, das sie innehaben. Sie benutzen es dann nur diskret zugunsten des Wohles des Rats der Dekaden…
+
+##### Boten
+
+Die Kommunikation ist ebenfalls eine Schwäche des über Harmundia verstreuten Rats der Dekaden. Die Siegel unterhalten daher besondere Beziehungen mit Reisenden jeglicher Couleur: Händler, Söldner, Diplomaten, Seeleute, etc. Sie vertrauen ihnen gelegentlich verschlüsselte Botschaften für Personen ihres Netzwerkes, sogar anderen Siegeln, an.
+
+#### Neun Siegel
+
+.....
+
+##### Kobold
+
+Dies ist niemand anders als Malicène (s. AGONE Regelbuch S. 66). Er leitet zur Zeit die Bruderschaft der Dächer, eine Koboldorganisation, die zwei Aufgaben hat. Offiziell ist sie dem Studium der Tänzer in ihrer natürlichen Umgebung gewidmet. Inoffiziell, und ohne ihrem Wissen, dient sie dem Rat der Dekaden.
+
+Malicène begibt sich regelmäßig in die Marschen von Modéhenne um dort neue Exemplare zu studieren und zu fangen. Sein Einflussbereich breitet sich entlang seiner Route aus, in Urgamand und in den Marschen von Modehen, nebenbei in der Söldnerrepublik.
+
+##### Gnom
+
+Der Repräsentant der Stadtleute hat vor kurzem gewechselt. Der verfrühte Tod von Galveric dem Ungeschickten, hat Sipsum den Schlauen,  reicher keschitischer Händler (S. The Gray Papers, S. 42) in den Rang eines Siegels katapultiert. Der Gnom hat
+
+...
+
+#### Satyr
+
+Éséothyle ist einer der auf Grund seiner Großtaten während Orgien im Jadepalast von Abbadrah berühmtesten Satyre aus den Prinzgemeinden. Seine (Mannes?)Kraft, aber ebenso seine Höflichkeit, sein Humor und seine Geistreichigkeit sind im ganzen Reich bekannt. Seine Eskapaden werden in allen Herbergen erzählt. Aber hinter seinem Äußeren als leichtsinniger Wüstling ist Éséothyle vor allem ein unvergleichlicher Spion. Er kennt zahlreiche Geheimnisse, von denen er die meisten auf den Bettkissen der Prinzgemeinderinnen erfahren hat.
+
+Im Gegensatz zu seinen Frühlingsbrüdern verfügt das Satyrsiegel nicht über einen weiten Einflussbereich. Er zieht es vor, allein zu arbeiten und besucht die Städte der Prinzgemeinden, sein Ruf ihm vorauseilend. Er durchreist auch Janrenia, wo er weit weniger bekannt ist und es ihm zugute kommt, sehr diskret zu agieren um die anderen Siegel zu kontaktieren und zu treffen.
+
+#### Oger
+
+Virgilène Lapoigne ist die Repräsentantin der Oger im Rat der Dekaden. Stolzer Kapitän eines Freibeuterschiffes, kommandiert sie die berühmteste Piratenmannschaft im Ebenholzgolf. Ihre Missetaten werden ebenso gepriesen wie ihre Heldentaten und zahlreiche Seemänner fürchten sich davor, ihren Weg zu kreuzen. Aber Lapoigne ist vor allem eine Abenteurerin und man munkelt, dass sie sich regelmäßig nach Bokkor oder zur Insel des Herbstes begibt.
+
+Sie reduziert ihre Aktivitäten für den Rat der Dekaden auf ein Minimum: Flammen auf Freibeuter übertragen. Und außerdem verfügt sie über einige gewissenhafte Paten, die diese Aufgabe sehr gut für sie ausführen. Sie zieht es vor, die Welt auf der Suche nach neuen Mitteln zu durchstreifen, sich dem Bösen zu widersetzen.
+
+#### Minotaur
+
+Als Janus den Repräsentanten der Minotauren für den Rat der Dekaden nominierte, überraschte er alle acht anderen Siegel, in dem er das Biest selbst wählte. In der Abyss lebend, kann es nicht im Rat der Dekaden teilnehmen; es beauftragt einen Abtrünnigen, es zu repräsentieren. Aber man sagt, dass an dem Tag, an dem das Biest persönlich teilnimmt, wird der endlich vereinte Rat der Dekaden seine Ruhmesstunde erleben.
+
+Der aktuelle Repräsentant der Minotauren nennt sich Sinocrachte. Es handelt sich um einen Söldnerkapitän. Seine Wirkungsbereich befindet sich in der Söldnerrepublik aber seine verschiedenen Verträge verschlagen ihn in alle Reiche von Harmundia. Unter den aktuellen Siegeln ist er ohne Zweifel derjenige, der die größte Streitmacht mobilisieren kann.
+
+#### Riese
+In den Wilden Gegenden geboren, ist Horwace ein großer Reisender. Den Großteil seiner 80 Jahre
+
+....
+
+#### Schwarze Fee
+
+Ophéline arbeitet Hand in Hand mit Horwace. Die anderen Siegel haben niemals wirklich verstanden, wie sich die beiden Jahreszeitlinge gefunden haben. Aber heute weiß jeder, dass das Paar an einer überwältigen Form von Vista arbeiten, eine Mischung aus Winter und Sommer…
+
+Ophéline wurde in den Witwenlanden geboren, aber es ist schon lange her, dass sie dort für den Rat der Dekaden gewirkt hat. Sie überlässt diese Aufgabe dem Siegel der Carmen.
+
+#### Zwerg
+
+Unter den Jahreszeitlingen gelang es nur den Zwergen des Winkelordens in der Liturgischen Provinz einen Betrachtungsanschein zu bekommen. Kaolin Skaledur, das Siegel der Zwerge
+
+....
+
+#### Medusa
+
+Das Siegel der Medusen ist eine adlige Carme. Sie hat ihr Leben dem Studium und der Förderung der Künste gewidmet. Unter den Siegeln ist sie sicherlich dasjenige, die die Regeln der Harmonie am Besten kennt. In ihren Landen können die Inspirierten die vier Magischen Künste bei den kompetentesten Lehrern lernen.
+Dame Algyria ihrerseits praktiziert und lehrt die Gestaltung wie niemand sonst.
+
+....
