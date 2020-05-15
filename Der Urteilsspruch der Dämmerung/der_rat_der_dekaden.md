@@ -50,9 +50,9 @@ Kurz vor seinem Tod wurde er vom Rat der Dekaden kontaktiert und, überzeugt von
 
 ##### Das Herrenhaus von Alifiore
 
-Unter größter Geheimhaltung ist das Herrenhaus von Alifiore zu einem der am weitesten entwickelten Sanktuarien geworden. Offiziell ist es nun der Sitz der Bruderschaft von Nitescente, einem Ritterordens ohne Furcht und ohne Vorwürfe. Einige von ihnen sind Inspirierte, Jünger des Geistes Alifiore. Letzterer ist im Laufe der Jahrhunderte am Ende seines Erwachens angelangt. Er ist nun bereit, neue Flammen zu schaffen, ein Kunststück, das er als einer der ersten vollbringen wird.
+Unter größter Geheimhaltung ist das Herrenhaus von Alifiore zu einem der am weitesten entwickelten Sanktuarien geworden. Offiziell ist es nun der Sitz der Bruderschaft von Nitescente, einem Ritterordens ohne Furcht und ohne Vorwürfe. Einige von ihnen sind Inspirierte, Jünger des Luminars Alifiore. Letzterer ist im Laufe der Jahrhunderte am Ende seines Erwachens angelangt. Er ist nun bereit, neue Flammen zu schaffen, ein Kunststück, das er als einer der ersten vollbringen wird.
 
-Name der Geists: Sandre d'Alifiore
+Name des Luminars: Sandre d'Alifiore
 
 Persönlichkeit: Weiser
 
@@ -133,3 +133,11 @@ Die Siegel werden es nie zugeben, aber jeder von ihnen traf den Ewigen einmal in
 Die neun Siegel treffen sich immer an geheimen Orten, wenn möglich weit entfernt vom Einfluss des Meisters der Seher. Die Art dieser Orte ist äußerst variabel, die einzige Sorge besteht darin, keine Risiken einzugehen. Der Rat der Dekaden verlässt sich manchmal auf den Schutz der Dekaden: ein Gasthaus, das von einer unbestechlichen Sommerjajreszeitling geführt wird, ein kleines Wäldchen, das vom Pollen der Kobolde geschützt wird, eine Festung des Quaders... Bei anderen Gelegenheiten macht sie sich die Wüste und die unzugängliche Lage eines Ortes zunutze. Die keshitische Wüste, die lyphanische Steppe und das Eiglophiengebirge waren somit mehrmals Gastgeber des Rates der Dekaden. Eine andere Möglichkeit ist es, sich an einem der öffentlichsten Orte zu treffen, wo die Anwesenheit von neun Jahreszeitlingen niemanden überraschen wird: in der Seeräuberstadt Tortage-la-Rouge, dem jährlichen Jahrmarkt von Qaysaria am Rande der keshitischen Wüste, Abyme...
 
 Der Rat der Dekaden vermeidet es im Allgemeinen, direkt im Haus eines Inspirierten, auf dem Gelände einer Domäne oder in einem Sanktuarium zu tagen. Sie alle sind in der Tat leider alle korrumpierbar und geeignet, den Rat der Dekaden zu verraten. Wenn ein Treffen in der Nähe von Inspirierten stattfindet, ist der Rat der Dekaden so vorsichtig, sie nicht zu benachrichtigen!
+
+###### Der Zeitpunkt
+
+Der Ort der Sitzungen wird vom Rat der Dekaden von Treffen zu Treffen festgelegt. Das Datum wird so festgelegt. Auch hier gibt es keine Regeln, aber die Sitzungen finden im Durchschnitt im Abstand von zwei oder drei Jahren statt. Die Mitglieder der Jahreszeiten müssen genügend Zeit haben, alles durchzugehen: Harmundia, die Flammen verteilen und einsammeln, den Kampf gegen die Bedrohung voranzutreiben und am nächsten Treffen teilzunehmen.
+
+Auf der anderen Seite finden die Treffen immer während einer Wintersonnenwende (erster Harpyie), einer Frühlings-Tagundnachtgleiche (erster Nymphe) oder einer Sommersonnenwende (erster Phönix) statt. Das erinnert an die Zeit, als der Rat der Dekaden sesshaft war und an diesen drei Terminen systematisch Sitzungen abgehalten wurden. Die Herbst-Tagundnachtgleiche (der erste Tag des Monats) ist ein Tag, der von den Jahreszeitlingen als verflucht gilt und systematisch vermieden wird.
+
+###### Die Teilnehmer
