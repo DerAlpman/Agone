@@ -166,13 +166,19 @@ Die Kommunikation ist ebenfalls eine Schwäche des über Harmundia verstreuten R
 
 #### Neun Siegel
 
-.....
+Die Siegel werden von Janus selbst nominiert. Während des Gesprächs, das der Herr ihnen gewährt, wird ein unerschütterliches Vertrauensverhältnis geschaffen, und es ist vonnöten, dass die Jahreszeitlinge ihre Rolle sehr ernst nehmen. Es ist gefährlich, die Position aller Flammen der Harmundia zu kennen, und dieses Wissen darf natürlich nicht in die Hände des Feindes fallen.
+
+Aus diesem Grund lassen die Siegel von direkten Handlungen gegen die Maske und den Schatten ab, um sich vor Niederträchtigkeit und Dunkelheit zu schützen. Dieser Entschluss ist nicht immer einfach zu akzeptieren, da die Siegel gerade wegen ihrer Vergangenheit als erbitterte Kämpfer gegen die Bedrohung ausgewählt wurden. Die Begegnung mit Janus scheint bei ihnen eine völlige Wende herbeizuführen: sie erwerben Weisheit und eine gewisse Distanz zum Kampf.
+
+Wenn zufällig ein Siegel korrumpiert wird, versucht es, rechtzeitig von seinem Amt zurückzutreten, um den Rat der Dekaden nicht zu gefährden. Der Fall ist in der Geschichte der Versammlung mehrfach aufgetreten. Das ausscheidende Mitglied wird nicht mehr über die Treffpunkte informiert und verliert schnell den Kontakt zu seinen ehemaligen Amtskollegen. Ein neuer, von Janus ernannter Jahreszeitling übernimmt das Amt.
+
+Ein gemeinsames Merkmal aller Siegel ist, dass sie dazu neigen, ihre Funktion zu verbergen. Diese Diskretion soll sie vor Angriffen durch die Maske schützen. Andererseits  haben sieRache halten sie gewöhnlich einen wichtigen Posten inne, wie jeder Inspirierte, der etwas auf sich hält. Dieses Amt gibt ihnen Mittel an die Hand, die sie diskret umleiten können, damit sie den Interessen des Rates der Dekaden dienen können.
 
 ##### Kobold
 
 Dies ist niemand anders als Malicène (s. AGONE Regelbuch S. 66). Er leitet zur Zeit die Bruderschaft der Dächer, eine Koboldorganisation, die zwei Aufgaben hat. Offiziell ist sie dem Studium der Tänzer in ihrer natürlichen Umgebung gewidmet. Inoffiziell, und ohne ihrem Wissen, dient sie dem Rat der Dekaden.
 
-Malicène begibt sich regelmäßig in die Marschen von Modéhenne um dort neue Exemplare zu studieren und zu fangen. Sein Einflussbereich breitet sich entlang seiner Route aus, in Urgamand und in den Marschen von Modehen, nebenbei in der Söldnerrepublik.
+Malicène begibt sich regelmäßig in die Marschen von Modéhenne um dort neue Exemplare zu studieren und zu fangen. Sein Einflussbereich breitet sich entlang seiner Route aus, in Urgamand und in den Marschen von Modéhenne, nebenbei in der Söldnerrepublik.
 
 ##### Gnom
 
