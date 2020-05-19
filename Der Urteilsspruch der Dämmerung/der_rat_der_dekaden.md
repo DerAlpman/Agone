@@ -182,9 +182,9 @@ Malicène begibt sich regelmäßig in die Marschen von Modéhenne um dort neue E
 
 ##### Gnom
 
-Der Repräsentant der Stadtleute hat vor kurzem gewechselt. Der verfrühte Tod von Galveric dem Ungeschickten, hat Sipsum den Schlauen,  reicher keschitischer Händler (S. The Gray Papers, S. 42) in den Rang eines Siegels katapultiert. Der Gnom hat
+Der Repräsentant der Stadtleute hat vor kurzem gewechselt. Der verfrühte Tod von Galveric dem Ungeschickten hat Sipsum den Schlauen,  reicher keschitischer Händler (S. The Gray Papers, S. 42) in den Rang eines Siegels katapultiert. Der Gnom drängte sich schnell auf, indem er die immense Finanzkraft seiner Domäne in den Dienst des Rates der Dekaden stellte. Er erwies sich als fähig, kolossale Geldsummen freizusetzen.
 
-...
+Ipsoum verlässt die Stadt Mezirah nur selten aber seine Karawanen durchqueren auf der Suche nach zukünftigen Inspirierten die keshitische Wüste und die benachbarten Königreiche. Paten, in die der Kobold volles Vertrauen hat, geben ihnen die Flamme.
 
 #### Satyr
 
